@@ -5,7 +5,7 @@
     <div id="box">
         <div id="datos" style="font-size: 19px">
 
-             <asp:TextBox ID="TextBox1" runat="server" Width="509px"></asp:TextBox>
+             <asp:TextBox ID="TextBox1" runat="server" Width="388px"></asp:TextBox>
 &nbsp;Nombre Producto<br />
              <asp:TextBox ID="TextBox2" runat="server" Height="33px" Width="508px"></asp:TextBox>
              Descripcion</div>
