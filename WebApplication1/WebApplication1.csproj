@@ -125,6 +125,7 @@
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
     <Content Include="ProductosABM.aspx" />
+    <Content Include="UsuariosABM.aspx" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Inicio.aspx" />
     <Content Include="Scripts\bootstrap.js" />
@@ -223,6 +224,13 @@
     </Compile>
     <Compile Include="ProductosABM.aspx.designer.cs">
       <DependentUpon>ProductosABM.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UsuariosABM.aspx.cs">
+      <DependentUpon>UsuariosABM.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UsuariosABM.aspx.designer.cs">
+      <DependentUpon>UsuariosABM.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

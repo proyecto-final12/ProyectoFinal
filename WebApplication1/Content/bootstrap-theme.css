@@ -150,7 +150,7 @@ fieldset[disabled] .btn-primary.active {
   background-image: -o-linear-gradient(top, #5cb85c 0%, #419641 100%);
   background-image: -webkit-gradient(linear, left top, left bottom, from(#5cb85c), to(#419641));
   background-image: linear-gradient(to bottom, #5cb85c 0%, #419641 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff5cb85c', endColorstr='#ff419641', GradientType=0);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff5cb85c', endColorstr='#ff419641', GradientType=0);
   filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
   background-repeat: repeat-x;
   border-color: #3e8f3e;
@@ -191,7 +191,7 @@ fieldset[disabled] .btn-success.active {
   background-image: -o-linear-gradient(top, #5bc0de 0%, #2aabd2 100%);
   background-image: -webkit-gradient(linear, left top, left bottom, from(#5bc0de), to(#2aabd2));
   background-image: linear-gradient(to bottom, #5bc0de 0%, #2aabd2 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff5bc0de', endColorstr='#ff2aabd2', GradientType=0);
+ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff5bc0de', endColorstr='#ff2aabd2', GradientType=0);
   filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
   background-repeat: repeat-x;
   border-color: #28a4c9;
@@ -273,7 +273,7 @@ fieldset[disabled] .btn-warning.active {
   background-image: -o-linear-gradient(top, #d9534f 0%, #c12e2a 100%);
   background-image: -webkit-gradient(linear, left top, left bottom, from(#d9534f), to(#c12e2a));
   background-image: linear-gradient(to bottom, #d9534f 0%, #c12e2a 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffd9534f', endColorstr='#ffc12e2a', GradientType=0);
+ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffd9534f', endColorstr='#ffc12e2a', GradientType=0);
   filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
   background-repeat: repeat-x;
   border-color: #b92c28;
@@ -593,11 +593,11 @@ fieldset[disabled] .btn-danger.active {
     background-color:azure;
 }
 
-#Botones{
-    float:right;
-    height:50px;
+#Botones {
+    float: right;
+    height: 50px;
     width: 800px;
-    background-color:aquamarine;
+    background-color: aquamarine;
 }
 
 #Datos{
@@ -606,3 +606,4 @@ fieldset[disabled] .btn-danger.active {
     width: 800px;
     background-color: aquamarine;
 }
+
